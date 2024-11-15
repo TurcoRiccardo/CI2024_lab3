@@ -17,4 +17,5 @@ Memory consumption is high, we can't always find a solution even for the 8-Puzzl
 Memory consumption is a little lower than the depth-first approach but still too high, we can't always find a solution even for the 8-Puzzle problem if the number of iterations is too low
 
 ## A*
+For the 8-Puzzle problem we can find a solution with a low number of iterations, we can't always find a solution with higher dimensional problems like 15-Puzzle and so on
 
